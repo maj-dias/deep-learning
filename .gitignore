@@ -7,6 +7,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# DATASETS
+dataset.nzp
+dataset.npz.zip
+sample_submission.csv
+
 # C extensions
 *.so
 
