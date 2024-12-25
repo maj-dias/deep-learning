@@ -11,6 +11,8 @@ __pycache__/
 dataset.nzp
 dataset.npz.zip
 sample_submission.csv
+*.npz
+*.zip
 
 # C extensions
 *.so
